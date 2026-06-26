@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Main hotel building structure -->
+  <path d="M3 21h18" />
+  <path d="M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16" />
+  <!-- Hotel H logo/shield on top center -->
+  <rect x="9.5" y="5" width="5" height="4" rx="1" fill="#6366f1" opacity="0.15" />
+  <path d="M11 6v2M13 6v2M11 7h2" stroke="#6366f1" stroke-width="1.5" />
+  <!-- Windows -->
+  <path d="M8 10h2v2H8zM14 10h2v2h-2z" fill="#6366f1" fill-opacity="0.3" />
+  <path d="M8 14h2v2H8zM14 14h2v2h-2z" fill="#6366f1" fill-opacity="0.3" />
+  <!-- Grand hotel entrance doors -->
+  <path d="M10 21v-3.5a0.5 0 0 1 .5-.5h3a0.5 0 0 1 .5.5V21" fill="#6366f1" fill-opacity="0.1" />
+</svg>
